@@ -1,0 +1,24 @@
+{
+  "name": "portafolio",
+  "version": "1.0.0",
+  "description": "Portafolio de Nahuel Llamas",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon APP.JS",
+    "start": "APP.JS"
+  },
+  "author": "Nahuel Sebastian Llamas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.2",
+    "googleapis": "^85.0.0",
+    "gsap": "^3.7.1",
+    "jquery": "^3.6.0",
+    "kute.js": "^2.1.2",
+    "nodemailer": "^6.6.3",
+    "nodemon": "^2.0.12",
+    "swiper": "^7.0.0",
+    "three": "^0.132.2"
+  }
+}

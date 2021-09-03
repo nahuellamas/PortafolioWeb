@@ -1,0 +1,23 @@
+
+const slider=new Swiper(".mySwiper",{slidesPerView:"auto",spaceBetween:150,centeredSlides:!0,mousewheel:!0,});slider.on('slideChange',function(){gsap.to('.slide-text span',{duration:.2,y:'-100px',})
+gsap.to('.slide-number span',{duration:.2,x:'-100px',})
+gsap.to('.swiper-slide-active',{duration:.5,scale:.85})})
+slider.on('slideChangeTransitionEnd',function(){gsap.to('.slide-text span',{duration:.2,y:0,delay:.5})
+gsap.to('.slide-text span',{duration:0,y:'100px',})
+gsap.to('.slide-number span',{duration:.2,x:0,delay:.7})
+gsap.to('.slide-number span',{duration:0,x:'100px',})
+gsap.to('.swiper-slide-active',{duration:.5,scale:1,ease:Power4.easeOut,})
+gsap.to('.swiper-slide-active .slide-text',{duration:0,autoAlpha:1})
+gsap.to('.swiper-slide-active .slide-number',{duration:0,autoAlpha:1})
+gsap.to('.swiper-slide-next .slide-text',{duration:0,autoAlpha:0})
+gsap.to('.swiper-slide-prev .slide-text',{duration:0,autoAlpha:0})
+gsap.to('.swiper-slide-next .slide-number',{duration:0,autoAlpha:0})
+gsap.to('.swiper-slide-prev .slide-number',{duration:0,autoAlpha:0})})
+gsap.to('.swiper-slide-next .slide-text',{duration:0,autoAlpha:0})
+gsap.to('.swiper-slide-prev .slide-text',{duration:0,autoAlpha:0})
+gsap.to('.swiper-slide-next .slide-number',{duration:0,autoAlpha:0})
+gsap.to('.swiper-slide-prev .slide-number',{duration:0,autoAlpha:0})
+gsap.to('.swiper-slide',{duration:0,scale:.85,})
+gsap.to('.swiper-slide-active',{duration:0,scale:1,})
+
+
