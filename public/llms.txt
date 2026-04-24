@@ -1,0 +1,43 @@
+# Nahuel Llamas
+
+> Full Stack Developer — Buenos Aires, Argentina
+
+Nahuel Llamas es un desarrollador Full Stack con 5+ años de experiencia construyendo plataformas IoT en tiempo real, CMS de alto tráfico y productos internacionales. Se especializa en arquitectura limpia, performance y mejora continua del equipo.
+
+- Email: nahuellamas@gmail.com
+- LinkedIn: https://www.linkedin.com/in/nahuel-llamas/
+- GitHub: https://github.com/nahuellamas
+- Ubicación: Buenos Aires, Argentina
+- Disponibilidad: Disponible para proyectos y oportunidades
+
+## Stack técnico
+
+- **Frontend**: React, Next.js, TypeScript, TailwindCSS, Redux, PWA, AngularJS
+- **Backend**: Node.js, NestJS, Express, REST APIs, Auth0
+- **Bases de datos**: MongoDB, PostgreSQL, MySQL, DynamoDB, Supabase, Firebase
+- **Cloud & DevOps**: AWS (S3, DynamoDB), GCP, Docker, Vercel, Linux
+- **Testing**: Jest, React Testing Library, testing unitario e integración
+- **AI & Tooling**: Claude, Gemini, orquestadores, subagentes, SDD
+
+## Experiencia
+
+### Horatech — Software Engineer (May 2024 — Actualidad)
+Refactorización completa del sistema de permisos de API en plataforma IoT con 5 clientes enterprise y 6.000+ dispositivos. Implementación de PWA, microservicios NestJS/MongoDB y testing con Jest + RTL. Estableció flujos de trabajo de equipo desde cero.
+
+### Clarín — Software Engineer (Oct 2023 — May 2024)
+Desarrollo y mantenimiento de CMS en Next.js/React para uno de los medios digitales más grandes de Argentina, con millones de usuarios únicos diarios.
+
+### Motomec — Full Stack Freelance (Sep 2023 — May 2024)
+Lideró el desarrollo full stack de app de gestión petrolera para cliente en EE.UU. con Node.js/Express, React/Redux, AWS, Auth0 y AmCharts.
+
+### Kamchatka — Full Stack Developer (Oct 2021 — Oct 2023)
+Construyó desde cero una plataforma de marketing con IA (Next.js, PostgreSQL, Google Cloud) para generación automatizada de imágenes, documentos y planillas.
+
+## Proyectos destacados
+
+### LatticeShield (privado)
+Proxy de seguridad post-cuántica en Rust. Implementa handshake híbrido X25519 + ML-KEM-768 y autenticación mutua ML-DSA-65. Soporte QUIC, WebSocket y browser (WASM + TypeScript SDK). +400 tests, CI y auditoría de seguridad.
+
+### Meta Ads Finder (open source)
+Herramienta de investigación de productos para ecommerce y dropshipping. Analiza anuncios en Meta Ad Library, detecta tiendas Shopify y enriquece con datos de AliExpress. Arquitectura hexagonal-lite, persistencia atómica y exportación CSV.
+GitHub: https://github.com/nahuellamas/meta-ads-finder
