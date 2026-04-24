@@ -79,8 +79,7 @@ nav.scrolled { background: rgba(7,7,14,0.82); backdrop-filter: blur(18px); borde
 .h-name .l2 { display: block; color: transparent; -webkit-text-stroke: 1.5px rgba(238,238,246,.28); }
 .h-role { font-family: var(--font-d); font-size: clamp(1rem,1.4vw,1.2rem); font-weight: 400; color: var(--text2); margin-bottom: 14px; animation: fadeup .7s ease both .35s; }
 .h-tags { display: flex; flex-wrap: wrap; gap: 7px; margin-bottom: 32px; animation: fadeup .7s ease both .45s; }
-.pill { font-size: .72rem; padding: 4px 12px; border: 1px solid var(--border); border-radius: 100px; color: var(--text2); background: var(--surface); font-family: var(--mono); letter-spacing: .06em; transition: border-color .2s, color .2s; cursor: default; }
-.pill:hover { border-color: var(--accent); color: var(--accent); }
+.pill { font-size: .72rem; font-weight: 700; padding: 4px 12px; border: 1px solid var(--accent); border-radius: 100px; color: var(--accent); background: var(--accent-dim); font-family: var(--mono); letter-spacing: .06em; cursor: default; }
 .h-desc { max-width: 500px; color: var(--text2); font-size: .95rem; font-weight: 300; line-height: 1.75; margin-bottom: 44px; animation: fadeup .7s ease both .55s; }
 .h-ctas { display: flex; gap: 14px; align-items: center; flex-wrap: wrap; animation: fadeup .7s ease both .65s; }
 .btn-p { padding: 13px 32px; background: var(--accent); color: #07070e; font-family: var(--font-d); font-weight: 700; font-size: .8rem; letter-spacing: .06em; text-transform: uppercase; text-decoration: none; border-radius: 2px; transition: opacity .2s, transform .2s; display: inline-block; }
