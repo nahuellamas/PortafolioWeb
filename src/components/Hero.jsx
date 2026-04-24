@@ -7,7 +7,7 @@ export default function Hero() {
   return (
     <section id="hero">
       <div className="c">
-        <p className="h-idx">000 — PORTFOLIO 2025</p>
+        <p className="h-idx">000 — PORTFOLIO 2026</p>
         <h1 className="h-name">
           <span ref={line1Ref}>NAHUEL</span>
           <span className="l2" ref={line2Ref}>LLAMAS</span>

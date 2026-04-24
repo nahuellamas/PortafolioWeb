@@ -76,7 +76,7 @@ function App() {
       <footer>
         <div className="c">
           <div className="foot">
-            <span>© 2025 Nahuel Llamas</span>
+            <span>© 2026 Nahuel Llamas</span>
             <span>Buenos Aires, Argentina</span>
           </div>
         </div>
