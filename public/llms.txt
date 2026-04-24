@@ -21,7 +21,7 @@ Nahuel Llamas es un desarrollador Full Stack con 5+ años de experiencia constru
 
 ## Experiencia
 
-### Horatech — Software Engineer (May 2024 — Abr 2025)
+### Horatech — Software Engineer (May 2024 — May 2026)
 Refactorización completa del sistema de permisos de API en plataforma IoT con 5 clientes enterprise y 6.000+ dispositivos. Implementación de PWA, microservicios NestJS/MongoDB y testing con Jest + RTL. Estableció flujos de trabajo de equipo desde cero.
 
 ### Clarín — Software Engineer (Oct 2023 — May 2024)

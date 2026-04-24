@@ -1,7 +1,7 @@
 export const EXP_DATA = [
   {
     co: 'Horatech',
-    dt: 'May 2024 — Abr 2025',
+    dt: 'May 2024 — May 2026',
     role: 'Software Engineer',
     badge: null,
     bullets: [
